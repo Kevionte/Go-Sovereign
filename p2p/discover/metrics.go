@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"net/netip"
 
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/Kevionte/Go-Sovereign/metrics"
 )
 
 const (

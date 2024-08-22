@@ -19,10 +19,10 @@ package main
 import (
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/devp2p/internal/v4test"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/Kevionte/Go-Sovereign/cmd/devp2p/internal/v4test"
+	"github.com/Kevionte/Go-Sovereign/internal/flags"
+	"github.com/Kevionte/Go-Sovereign/internal/utesting"
+	"github.com/Kevionte/Go-Sovereign/log"
 	"github.com/urfave/cli/v2"
 )
 

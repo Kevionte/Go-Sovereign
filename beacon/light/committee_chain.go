@@ -23,14 +23,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/lru"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/Kevionte/Go-Sovereign/beacon/params"
+	"github.com/Kevionte/Go-Sovereign/beacon/types"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/common/lru"
+	"github.com/Kevionte/Go-Sovereign/common/mclock"
+	"github.com/Kevionte/Go-Sovereign/core/rawdb"
+	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/Go-Sovereign/log"
 )
 
 var (

@@ -27,15 +27,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state/snapshot"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie"
-	"github.com/ethereum/go-ethereum/triedb"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/core/rawdb"
+	"github.com/Kevionte/Go-Sovereign/core/state/snapshot"
+	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/Go-Sovereign/trie"
+	"github.com/Kevionte/Go-Sovereign/triedb"
 )
 
 const (

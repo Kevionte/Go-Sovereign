@@ -21,7 +21,7 @@ import (
 	"math"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/Kevionte/Go-Sovereign/common"
 	"github.com/holiman/uint256"
 	"golang.org/x/exp/maps"
 )

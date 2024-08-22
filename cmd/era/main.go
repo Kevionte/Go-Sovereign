@@ -27,13 +27,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/era"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/Go-Sovereign/internal/era"
+	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
+	"github.com/Kevionte/Go-Sovereign/internal/flags"
+	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/Go-Sovereign/trie"
 	"github.com/urfave/cli/v2"
 )
 

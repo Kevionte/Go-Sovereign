@@ -21,10 +21,10 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto/kzg4844"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/crypto/kzg4844"
+	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/Go-Sovereign/rlp"
 	"github.com/holiman/uint256"
 )
 

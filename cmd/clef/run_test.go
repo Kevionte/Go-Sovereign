@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/internal/cmdtest"
-	"github.com/ethereum/go-ethereum/internal/reexec"
+	"github.com/Kevionte/Go-Sovereign/internal/cmdtest"
+	"github.com/Kevionte/Go-Sovereign/internal/reexec"
 )
 
 const registeredName = "clef-test"

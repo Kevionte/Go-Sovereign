@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/Kevionte/Go-Sovereign
 
 go 1.21
 

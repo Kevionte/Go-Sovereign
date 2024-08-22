@@ -20,10 +20,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/core/forkid"
+	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/Go-Sovereign/p2p/enode"
 )
 
 // Tests that handshake failures are detected and reported correctly.

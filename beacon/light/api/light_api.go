@@ -26,13 +26,13 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Kevionte/Go-Sovereign/beacon/merkle"
+	"github.com/Kevionte/Go-Sovereign/beacon/params"
+	"github.com/Kevionte/Go-Sovereign/beacon/types"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/Go-Sovereign/log"
 	"github.com/donovanhide/eventsource"
-	"github.com/ethereum/go-ethereum/beacon/merkle"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/log"
 )
 
 var (

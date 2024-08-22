@@ -19,12 +19,12 @@ package sync
 import (
 	"sort"
 
-	"github.com/ethereum/go-ethereum/beacon/light"
-	"github.com/ethereum/go-ethereum/beacon/light/request"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/Kevionte/Go-Sovereign/beacon/light"
+	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
+	"github.com/Kevionte/Go-Sovereign/beacon/params"
+	"github.com/Kevionte/Go-Sovereign/beacon/types"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/log"
 )
 
 const maxUpdateRequest = 8 // maximum number of updates requested in a single request

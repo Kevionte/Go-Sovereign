@@ -20,9 +20,9 @@ import (
 	"container/heap"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/txpool"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/Go-Sovereign/core/txpool"
+	"github.com/Kevionte/Go-Sovereign/core/types"
 	"github.com/holiman/uint256"
 )
 

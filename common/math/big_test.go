@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/Kevionte/Go-Sovereign/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {
