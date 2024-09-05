@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 func u64(val uint64) *uint64 { return &val }

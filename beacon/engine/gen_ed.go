@@ -7,9 +7,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 var _ = (*executableDataMarshaling)(nil)

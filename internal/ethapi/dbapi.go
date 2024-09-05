@@ -17,8 +17,8 @@
 package ethapi
 
 import (
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
 )
 
 // DbGet returns the raw value of a key stored in the database.

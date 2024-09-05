@@ -24,11 +24,11 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/params"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/params"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 //go:generate go run github.com/fjl/gencodec -type Receipt -field-override receiptMarshaling -out gen_receipt_json.go

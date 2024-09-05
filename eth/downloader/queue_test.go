@@ -26,13 +26,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/consensus/ethash"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/params"
-	"github.com/Kevionte/Go-Sovereign/trie"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/consensus/ethash"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/params"
+	"github.com/Kevionte/go-sovereign/trie"
 )
 
 // makeChain creates a chain of n blocks starting at and including parent.

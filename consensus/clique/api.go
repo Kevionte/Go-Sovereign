@@ -20,12 +20,12 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/consensus"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/rlp"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/consensus"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

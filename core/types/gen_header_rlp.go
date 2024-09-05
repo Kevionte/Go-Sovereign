@@ -2,7 +2,7 @@
 
 package types
 
-import "github.com/Kevionte/Go-Sovereign/rlp"
+import "github.com/Kevionte/go-sovereign/rlp"
 import "io"
 
 func (obj *Header) EncodeRLP(_w io.Writer) error {

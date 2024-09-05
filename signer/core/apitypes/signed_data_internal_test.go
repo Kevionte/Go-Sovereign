@@ -21,9 +21,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/math"
 )
 
 func TestBytesPadding(t *testing.T) {

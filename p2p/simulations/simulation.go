@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 )
 
 // Simulation provides a framework for running actions in a simulated network

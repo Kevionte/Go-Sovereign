@@ -21,7 +21,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 // resultStore implements a structure for maintaining fetchResults, tracking their

@@ -24,11 +24,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/abi/bind"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/accounts/abi/bind"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 var _ bind.ContractBackend = (Client)(nil)

@@ -19,7 +19,7 @@ package bind
 import (
 	_ "embed"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/abi"
+	"github.com/Kevionte/go-sovereign/accounts/abi"
 )
 
 // tmplData is the data structure required to fill the binding template.

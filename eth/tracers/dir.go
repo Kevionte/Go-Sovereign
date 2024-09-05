@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/tracing"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/tracing"
 )
 
 // Context contains some contextual infos for a transaction execution that is not

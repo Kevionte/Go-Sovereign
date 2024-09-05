@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/common/math"
 	"github.com/stretchr/testify/require"
 )
 

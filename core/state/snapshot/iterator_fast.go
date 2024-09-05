@@ -22,7 +22,7 @@ import (
 	"slices"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // weightedIterator is an iterator with an assigned weight. It is used to prioritise

@@ -24,14 +24,14 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/state"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/snap"
-	"github.com/Kevionte/Go-Sovereign/internal/utesting"
-	"github.com/Kevionte/Go-Sovereign/trie"
-	"github.com/Kevionte/Go-Sovereign/trie/trienode"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/state"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/eth/protocols/snap"
+	"github.com/Kevionte/go-sovereign/internal/utesting"
+	"github.com/Kevionte/go-sovereign/trie"
+	"github.com/Kevionte/go-sovereign/trie/trienode"
 )
 
 func (c *Conn) snapRequest(code uint64, msg any) (any, error) {

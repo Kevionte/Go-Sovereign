@@ -27,9 +27,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/evm/internal/t8ntool"
-	"github.com/Kevionte/Go-Sovereign/internal/cmdtest"
-	"github.com/Kevionte/Go-Sovereign/internal/reexec"
+	"github.com/Kevionte/go-sovereign/cmd/evm/internal/t8ntool"
+	"github.com/Kevionte/go-sovereign/internal/cmdtest"
+	"github.com/Kevionte/go-sovereign/internal/reexec"
 )
 
 func TestMain(m *testing.M) {

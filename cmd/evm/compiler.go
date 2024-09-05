@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/evm/internal/compiler"
+	"github.com/Kevionte/go-sovereign/cmd/evm/internal/compiler"
 
 	"github.com/urfave/cli/v2"
 )

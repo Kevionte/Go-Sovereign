@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/internal/debug"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/internal/debug"
+	"github.com/Kevionte/go-sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 	"github.com/urfave/cli/v2"
 )
 

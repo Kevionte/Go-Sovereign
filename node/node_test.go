@@ -27,10 +27,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/rpc"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/snap"
-	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/eth/protocols/snap"
+	"github.com/Kevionte/go-sovereign/p2p"
 )
 
 var (

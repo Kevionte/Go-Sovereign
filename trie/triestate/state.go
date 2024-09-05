@@ -16,7 +16,7 @@
 
 package triestate
 
-import "github.com/Kevionte/Go-Sovereign/common"
+import "github.com/Kevionte/go-sovereign/common"
 
 // Set represents a collection of mutated states during a state transition.
 // The value refers to the original content of state before the transition

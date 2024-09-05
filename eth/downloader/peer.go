@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
-	"github.com/Kevionte/Go-Sovereign/event"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/p2p/msgrate"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/event"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/p2p/msgrate"
 )
 
 const (

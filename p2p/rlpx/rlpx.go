@@ -33,9 +33,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/crypto/ecies"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/crypto/ecies"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/golang/snappy"
 	"golang.org/x/crypto/sha3"
 )

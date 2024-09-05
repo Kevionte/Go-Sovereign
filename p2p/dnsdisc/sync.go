@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 )
 
 // This is the number of consecutive leaf requests that may fail before

@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 	natpmp "github.com/jackpal/go-nat-pmp"
 )
 

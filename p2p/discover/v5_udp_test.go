@@ -29,13 +29,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/internal/testlog"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover/v4wire"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover/v5wire"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/p2p/enr"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/internal/testlog"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/p2p/discover/v4wire"
+	"github.com/Kevionte/go-sovereign/p2p/discover/v5wire"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/enr"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/stretchr/testify/require"
 )
 

@@ -27,13 +27,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/signer/core"
-	"github.com/Kevionte/Go-Sovereign/signer/core/apitypes"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/signer/core"
+	"github.com/Kevionte/go-sovereign/signer/core/apitypes"
 )
 
 var typesStandard = apitypes.Types{

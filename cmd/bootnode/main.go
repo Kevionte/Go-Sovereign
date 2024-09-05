@@ -25,13 +25,13 @@ import (
 	"os"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/p2p/nat"
-	"github.com/Kevionte/Go-Sovereign/p2p/netutil"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/p2p/discover"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/nat"
+	"github.com/Kevionte/go-sovereign/p2p/netutil"
 )
 
 func main() {

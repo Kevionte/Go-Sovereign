@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // memoryTable is used to store a list of sequential items in memory.

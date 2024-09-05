@@ -23,7 +23,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/p2p/simulations/pipes"
+	"github.com/Kevionte/go-sovereign/p2p/simulations/pipes"
 )
 
 func TestTCPPipe(t *testing.T) {

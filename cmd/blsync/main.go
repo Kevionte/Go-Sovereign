@@ -21,13 +21,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/blsync"
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/internal/debug"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/node"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/beacon/blsync"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/internal/debug"
+	"github.com/Kevionte/go-sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/node"
+	"github.com/Kevionte/go-sovereign/rpc"
 	"github.com/urfave/cli/v2"
 )
 

@@ -29,9 +29,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

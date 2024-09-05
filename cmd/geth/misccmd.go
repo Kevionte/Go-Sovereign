@@ -22,8 +22,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/internal/version"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/internal/version"
+	"github.com/Kevionte/go-sovereign/params"
 	"github.com/urfave/cli/v2"
 )
 

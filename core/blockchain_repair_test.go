@@ -26,12 +26,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/consensus/ethash"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/consensus/ethash"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 // Tests a recovery for a short canonical chain where a recent block was already
@@ -1887,7 +1887,7 @@ func testRepairWithScheme(t *testing.T, tt *rewindTest, snapshots bool, scheme s
 	}
 }
 
-// TestIssue23496 tests scenario described in https://github.com/Kevionte/Go-Sovereign/pull/23496#issuecomment-926393893
+// TestIssue23496 tests scenario described in https://github.com/Kevionte/go-sovereign/pull/23496#issuecomment-926393893
 // Credits to @zzyalbert for finding the issue.
 //
 // Local chain owns these blocks:

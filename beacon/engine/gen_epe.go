@@ -7,7 +7,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
 )
 
 var _ = (*executionPayloadEnvelopeMarshaling)(nil)

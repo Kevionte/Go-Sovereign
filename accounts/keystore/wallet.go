@@ -19,10 +19,10 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign"
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
+	"github.com/Kevionte/go-sovereign"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

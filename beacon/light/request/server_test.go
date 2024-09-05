@@ -3,7 +3,7 @@ package request
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/common/mclock"
 )
 
 const (

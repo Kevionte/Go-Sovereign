@@ -25,10 +25,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/console/prompt"
-	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/console/prompt"
+	"github.com/Kevionte/go-sovereign/internal/ethapi"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 type CommandlineUI struct {

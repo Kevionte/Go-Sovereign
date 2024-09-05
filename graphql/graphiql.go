@@ -27,8 +27,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/Kevionte/Go-Sovereign/graphql/internal/graphiql"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/graphql/internal/graphiql"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // GraphiQL is an in-browser IDE for exploring GraphiQL APIs.

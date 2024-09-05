@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/bitutil"
-	"github.com/Kevionte/Go-Sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/common/bitutil"
+	"github.com/Kevionte/go-sovereign/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

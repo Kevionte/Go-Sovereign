@@ -25,13 +25,13 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/lru"
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
-	"github.com/Kevionte/Go-Sovereign/core/txpool"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/lru"
+	"github.com/Kevionte/go-sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/core/txpool"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/metrics"
 )
 
 const (

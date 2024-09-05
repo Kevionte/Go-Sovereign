@@ -19,8 +19,8 @@ package simulated
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/node"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/node"
 )
 
 // WithBlockGasLimit configures the simulated backend to target a specific gas limit

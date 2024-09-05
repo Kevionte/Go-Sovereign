@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/event"
+	"github.com/Kevionte/go-sovereign/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

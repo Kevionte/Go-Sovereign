@@ -17,8 +17,8 @@
 package eth
 
 import (
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/snap"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/eth/protocols/snap"
 )
 
 // ethPeerInfo represents a short summary of the `eth` sub-protocol metadata known

@@ -16,7 +16,7 @@
 
 package pathdb
 
-import "github.com/Kevionte/Go-Sovereign/metrics"
+import "github.com/Kevionte/go-sovereign/metrics"
 
 var (
 	cleanHitMeter   = metrics.NewRegisteredMeter("pathdb/clean/hit", nil)

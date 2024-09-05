@@ -19,11 +19,11 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/state"
-	"github.com/Kevionte/Go-Sovereign/core/stateless"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/state"
+	"github.com/Kevionte/go-sovereign/core/stateless"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

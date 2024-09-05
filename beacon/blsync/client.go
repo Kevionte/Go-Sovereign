@@ -19,16 +19,16 @@ package blsync
 import (
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/light"
-	"github.com/Kevionte/Go-Sovereign/beacon/light/api"
-	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
-	"github.com/Kevionte/Go-Sovereign/beacon/light/sync"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
-	"github.com/Kevionte/Go-Sovereign/ethdb/memorydb"
-	"github.com/Kevionte/Go-Sovereign/event"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/beacon/light"
+	"github.com/Kevionte/go-sovereign/beacon/light/api"
+	"github.com/Kevionte/go-sovereign/beacon/light/request"
+	"github.com/Kevionte/go-sovereign/beacon/light/sync"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/ethdb/memorydb"
+	"github.com/Kevionte/go-sovereign/event"
+	"github.com/Kevionte/go-sovereign/rpc"
 	"github.com/urfave/cli/v2"
 )
 

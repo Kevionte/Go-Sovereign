@@ -23,9 +23,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/internal/version"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/internal/version"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/params"
 	"github.com/mattn/go-isatty"
 	"github.com/urfave/cli/v2"
 )

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

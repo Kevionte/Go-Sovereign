@@ -43,7 +43,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/Kevionte/Go-Sovereign/crypto"
+	ethcrypto "github.com/Kevionte/go-sovereign/crypto"
 )
 
 var (

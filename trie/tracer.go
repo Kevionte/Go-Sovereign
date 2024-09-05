@@ -19,7 +19,7 @@ package trie
 import (
 	"maps"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // tracer tracks the changes of trie nodes. During the trie operations,

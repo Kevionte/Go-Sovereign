@@ -19,10 +19,10 @@ package catalyst
 import (
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/engine"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/miner"
+	"github.com/Kevionte/go-sovereign/beacon/engine"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/miner"
 )
 
 // maxTrackedPayloads is the maximum number of prepared payloads the execution

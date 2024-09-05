@@ -16,7 +16,7 @@
 
 package snapshot
 
-import "github.com/Kevionte/Go-Sovereign/metrics"
+import "github.com/Kevionte/go-sovereign/metrics"
 
 // Metrics in generation
 var (

@@ -23,21 +23,21 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/abi"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/consensus"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/asm"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/core/state"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
-	"github.com/Kevionte/Go-Sovereign/eth/tracers"
-	"github.com/Kevionte/Go-Sovereign/eth/tracers/logger"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/accounts/abi"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/consensus"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/asm"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/core/state"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/eth/tracers"
+	"github.com/Kevionte/go-sovereign/eth/tracers/logger"
+	"github.com/Kevionte/go-sovereign/params"
 
 	// force-load js tracers to trigger registration
-	_ "github.com/Kevionte/Go-Sovereign/eth/tracers/js"
+	_ "github.com/Kevionte/go-sovereign/eth/tracers/js"
 )
 
 func TestDefaults(t *testing.T) {
@@ -624,7 +624,7 @@ func TestEip2929Cases(t *testing.T) {
 
 // TestColdAccountAccessCost test that the cold account access cost is reported
 // correctly
-// see: https://github.com/Kevionte/Go-Sovereign/issues/22649
+// see: https://github.com/Kevionte/go-sovereign/issues/22649
 func TestColdAccountAccessCost(t *testing.T) {
 	for i, tc := range []struct {
 		code []byte

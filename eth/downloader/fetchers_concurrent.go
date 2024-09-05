@@ -21,10 +21,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/prque"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/prque"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // timeoutGracePeriod is the amount of time to allow for a peer to deliver a

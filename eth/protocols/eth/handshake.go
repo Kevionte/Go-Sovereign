@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/forkid"
-	"github.com/Kevionte/Go-Sovereign/metrics"
-	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/forkid"
+	"github.com/Kevionte/go-sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/p2p"
 )
 
 const (

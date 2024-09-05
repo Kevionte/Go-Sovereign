@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/core/asm"
+	"github.com/Kevionte/go-sovereign/core/asm"
 	"github.com/urfave/cli/v2"
 )
 

@@ -17,10 +17,10 @@
 package eth
 
 import (
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/forkid"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/forkid"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `eth` protocol on the discovery.

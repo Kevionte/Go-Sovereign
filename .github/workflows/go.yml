@@ -3,7 +3,7 @@ name: i386 linux tests
 on:
   push:
     branches: [ main ]
-    tags: [ v1.0.1 ]
+    tags: [ v1.0.2 ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
   release:
       needs: build
       runs-on: ubuntu-latest
-      if: startsWith(github.ref, 'refs/tags/v1.0.1')
+      if: startsWith(github.ref, 'refs/tags/v1.0.2')
 
       steps:
         - name: Checkout code

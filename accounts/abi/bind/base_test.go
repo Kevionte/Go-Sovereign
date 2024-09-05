@@ -24,14 +24,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign"
-	"github.com/Kevionte/Go-Sovereign/accounts/abi"
-	"github.com/Kevionte/Go-Sovereign/accounts/abi/bind"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign"
+	"github.com/Kevionte/go-sovereign/accounts/abi"
+	"github.com/Kevionte/go-sovereign/accounts/abi/bind"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

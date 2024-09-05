@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/devp2p/internal/ethtest"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/p2p/rlpx"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/cmd/devp2p/internal/ethtest"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/rlpx"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/urfave/cli/v2"
 )
 

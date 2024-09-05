@@ -19,9 +19,9 @@ package simulations
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/node"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/p2p/simulations/adapters"
+	"github.com/Kevionte/go-sovereign/node"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/simulations/adapters"
 )
 
 func newTestNetwork(t *testing.T, nodeCount int) (*Network, []enode.ID) {

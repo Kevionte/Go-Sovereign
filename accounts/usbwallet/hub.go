@@ -23,9 +23,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/event"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/event"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/karalabe/hid"
 )
 

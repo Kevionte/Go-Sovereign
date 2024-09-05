@@ -17,7 +17,7 @@
 package trie
 
 import (
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 func nodeToBytes(n node) []byte {

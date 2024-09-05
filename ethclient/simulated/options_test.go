@@ -22,10 +22,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 // Tests that the simulator starts with the initial gas limit in the genesis block,

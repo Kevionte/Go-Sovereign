@@ -24,12 +24,12 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/snap"
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/p2p/rlpx"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/eth/protocols/snap"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/p2p/rlpx"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/davecgh/go-spew/spew"
 )
 

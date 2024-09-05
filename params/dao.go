@@ -19,7 +19,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // DAOForkBlockExtra is the block header extra-data field to set for the DAO fork

@@ -19,9 +19,9 @@ package ethapi
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/abi"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/accounts/abi"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/core/vm"
 )
 
 // revertError is an API error that encompasses an EVM revert with JSON error

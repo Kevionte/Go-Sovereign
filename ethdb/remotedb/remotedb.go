@@ -22,9 +22,9 @@
 package remotedb
 
 import (
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // Database is a key-value lookup for a remote database via debug_dbGet.

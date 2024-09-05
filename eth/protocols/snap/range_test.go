@@ -19,7 +19,7 @@ package snap
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // Tests that given a starting hash and a density, the hash ranger can correctly

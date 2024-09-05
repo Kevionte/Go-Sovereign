@@ -22,17 +22,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/downloader"
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/miner"
-	"github.com/Kevionte/Go-Sovereign/node"
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/eth"
+	"github.com/Kevionte/go-sovereign/eth/downloader"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/miner"
+	"github.com/Kevionte/go-sovereign/node"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 func startSimulatedBeaconEthService(t *testing.T, genesis *core.Genesis) (*node.Node, *eth.Ethereum, *SimulatedBeacon) {

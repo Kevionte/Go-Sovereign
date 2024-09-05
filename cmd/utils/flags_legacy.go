@@ -19,8 +19,8 @@ package utils
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

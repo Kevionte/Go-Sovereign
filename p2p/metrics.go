@@ -22,7 +22,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/Kevionte/Go-Sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics"
 )
 
 const (

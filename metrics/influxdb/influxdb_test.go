@@ -27,8 +27,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/metrics"
-	"github.com/Kevionte/Go-Sovereign/metrics/internal"
+	"github.com/Kevionte/go-sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics/internal"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 )
 

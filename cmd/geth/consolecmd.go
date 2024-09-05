@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/console"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/console"
+	"github.com/Kevionte/go-sovereign/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

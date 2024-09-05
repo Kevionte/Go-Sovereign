@@ -24,9 +24,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/internal/utesting"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover/v4wire"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/internal/utesting"
+	"github.com/Kevionte/go-sovereign/p2p/discover/v4wire"
 )
 
 const (

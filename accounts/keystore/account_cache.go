@@ -28,9 +28,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/log"
 	mapset "github.com/deckarep/golang-set/v2"
 )
 

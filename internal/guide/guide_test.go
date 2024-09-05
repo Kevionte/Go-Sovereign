@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 // Tests that the account management snippets work correctly.

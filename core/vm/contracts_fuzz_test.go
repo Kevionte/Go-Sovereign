@@ -19,7 +19,7 @@ package vm
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 func FuzzPrecompiledContracts(f *testing.F) {

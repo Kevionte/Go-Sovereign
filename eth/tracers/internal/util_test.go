@@ -18,7 +18,7 @@ package internal
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/core/vm"
 )
 
 func TestMemCopying(t *testing.T) {

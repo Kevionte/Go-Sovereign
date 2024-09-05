@@ -22,8 +22,8 @@ import (
 	"io"
 	"math/big"
 
-	cloudflare "github.com/Kevionte/Go-Sovereign/crypto/bn256/cloudflare"
-	google "github.com/Kevionte/Go-Sovereign/crypto/bn256/google"
+	cloudflare "github.com/Kevionte/go-sovereign/crypto/bn256/cloudflare"
+	google "github.com/Kevionte/go-sovereign/crypto/bn256/google"
 	"github.com/consensys/gnark-crypto/ecc/bn254"
 )
 

@@ -16,7 +16,7 @@
 
 package eth
 
-import "github.com/Kevionte/Go-Sovereign/metrics"
+import "github.com/Kevionte/go-sovereign/metrics"
 
 // meters stores ingress and egress handshake meters.
 var meters bidirectionalMeters

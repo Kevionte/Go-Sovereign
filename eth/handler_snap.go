@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/snap"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/eth/protocols/snap"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network

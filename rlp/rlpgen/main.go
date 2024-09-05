@@ -27,7 +27,7 @@ import (
 	"golang.org/x/tools/go/packages"
 )
 
-const pathOfPackageRLP = "github.com/Kevionte/Go-Sovereign/rlp"
+const pathOfPackageRLP = "github.com/Kevionte/go-sovereign/rlp"
 
 func main() {
 	var (

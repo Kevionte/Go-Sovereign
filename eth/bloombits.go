@@ -19,8 +19,8 @@ package eth
 import (
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/bitutil"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/common/bitutil"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
 )
 
 const (

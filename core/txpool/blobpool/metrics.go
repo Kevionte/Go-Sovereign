@@ -16,7 +16,7 @@
 
 package blobpool
 
-import "github.com/Kevionte/Go-Sovereign/metrics"
+import "github.com/Kevionte/go-sovereign/metrics"
 
 var (
 	// datacapGauge tracks the user's configured capacity for the blob pool. It

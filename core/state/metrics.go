@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/Kevionte/Go-Sovereign/metrics"
+import "github.com/Kevionte/go-sovereign/metrics"
 
 var (
 	accountUpdatedMeter      = metrics.NewRegisteredMeter("state/update/account", nil)

@@ -25,17 +25,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/consensus/ethash"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/node"
-	"github.com/Kevionte/Go-Sovereign/params"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/consensus/ethash"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/eth"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/node"
+	"github.com/Kevionte/go-sovereign/params"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // Verify that Client implements the ethereum interfaces.

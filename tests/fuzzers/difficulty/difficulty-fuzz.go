@@ -23,8 +23,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/consensus/ethash"
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/consensus/ethash"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 type fuzzer struct {

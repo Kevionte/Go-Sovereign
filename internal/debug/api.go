@@ -35,7 +35,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/hashicorp/go-bexpr"
 )
 

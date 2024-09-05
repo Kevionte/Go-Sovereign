@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/crypto"
 	"github.com/urfave/cli/v2"
 )
 

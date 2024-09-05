@@ -23,7 +23,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // Entry is implemented by known node record entry types.

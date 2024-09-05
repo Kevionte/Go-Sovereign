@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/metrics"
-	"github.com/Kevionte/Go-Sovereign/metrics/internal"
+	"github.com/Kevionte/go-sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics/internal"
 )
 
 func TestMain(m *testing.M) {

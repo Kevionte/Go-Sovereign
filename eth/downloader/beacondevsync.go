@@ -20,8 +20,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // BeaconDevSync is a development helper to test synchronization by providing

@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

@@ -19,7 +19,7 @@ package rawdb
 import (
 	"path/filepath"
 
-	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/ethdb"
 )
 
 // The list of table names of chain freezer.

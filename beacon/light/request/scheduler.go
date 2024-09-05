@@ -19,7 +19,7 @@ package request
 import (
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // Module represents a mechanism which is typically responsible for downloading

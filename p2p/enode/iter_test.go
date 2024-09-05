@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/p2p/enr"
+	"github.com/Kevionte/go-sovereign/p2p/enr"
 )
 
 func TestReadNodes(t *testing.T) {

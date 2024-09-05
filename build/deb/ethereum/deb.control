@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), golang-go
 Standards-Version: 3.9.5
 Homepage: https://ethereum.org
-Vcs-Git: https://github.com/Kevionte/Go-Sovereign.git
-Vcs-Browser: https://github.com/Kevionte/Go-Sovereign
+Vcs-Git: https://github.com/Kevionte/go-sovereign.git
+Vcs-Browser: https://github.com/Kevionte/go-sovereign
 
 Package: {{.Name}}
 Architecture: any

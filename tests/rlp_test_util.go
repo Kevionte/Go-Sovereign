@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // RLPTest is the JSON structure of a single RLP test.

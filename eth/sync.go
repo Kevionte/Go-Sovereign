@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/txpool"
-	"github.com/Kevionte/Go-Sovereign/eth/protocols/eth"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/txpool"
+	"github.com/Kevionte/go-sovereign/eth/protocols/eth"
 )
 
 // syncTransactions starts sending all currently pending transactions to the given peer.

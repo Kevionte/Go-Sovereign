@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/consensus/ethash"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/consensus/ethash"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

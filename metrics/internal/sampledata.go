@@ -22,7 +22,7 @@ import (
 	metrics2 "runtime/metrics"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics"
 )
 
 // ExampleMetrics returns an ordered registry populated with a sample of metrics.

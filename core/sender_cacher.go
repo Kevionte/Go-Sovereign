@@ -19,7 +19,7 @@ package core
 import (
 	"runtime"
 
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 // SenderCacher is a concurrent transaction sender recoverer and cacher.

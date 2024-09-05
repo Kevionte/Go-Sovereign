@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto/secp256k1"
+	"github.com/Kevionte/go-sovereign/crypto/secp256k1"
 	"github.com/btcsuite/btcd/btcec/v2"
 )
 

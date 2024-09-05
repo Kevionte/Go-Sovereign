@@ -21,9 +21,9 @@ import (
 	"errors"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/log"
 	bloomfilter "github.com/holiman/bloomfilter/v2"
 )
 

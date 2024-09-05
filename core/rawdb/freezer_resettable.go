@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 const tmpSuffix = ".tmp"

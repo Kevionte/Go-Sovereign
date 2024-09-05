@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/abi/bind"
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/common/compiler"
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/accounts/abi/bind"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/common/compiler"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/urfave/cli/v2"
 )
 

@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/internal/utesting"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover/v5wire"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
-	"github.com/Kevionte/Go-Sovereign/p2p/netutil"
+	"github.com/Kevionte/go-sovereign/internal/utesting"
+	"github.com/Kevionte/go-sovereign/p2p/discover/v5wire"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/netutil"
 )
 
 // Suite is the discv5 test suite.

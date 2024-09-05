@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/signer/core/apitypes"
-	"github.com/Kevionte/Go-Sovereign/signer/fourbyte"
+	"github.com/Kevionte/go-sovereign/signer/core/apitypes"
+	"github.com/Kevionte/go-sovereign/signer/fourbyte"
 )
 
 func init() {

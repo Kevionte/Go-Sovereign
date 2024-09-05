@@ -19,7 +19,7 @@ package p2p
 import (
 	"container/heap"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/common/mclock"
 )
 
 // expHeap tracks strings and their expiry time.

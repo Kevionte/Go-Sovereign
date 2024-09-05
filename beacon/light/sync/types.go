@@ -17,9 +17,9 @@
 package sync
 
 import (
-	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/beacon/light/request"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 var (

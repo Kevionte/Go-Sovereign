@@ -24,8 +24,8 @@ import (
 	"slices"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 )
 
 const jsonIndent = "    "

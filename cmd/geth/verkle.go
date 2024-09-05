@@ -23,11 +23,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/ethereum/go-verkle"
 	"github.com/urfave/cli/v2"
 )

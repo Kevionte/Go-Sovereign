@@ -5,13 +5,13 @@ package ethconfig
 import (
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/txpool/blobpool"
-	"github.com/Kevionte/Go-Sovereign/core/txpool/legacypool"
-	"github.com/Kevionte/Go-Sovereign/eth/downloader"
-	"github.com/Kevionte/Go-Sovereign/eth/gasprice"
-	"github.com/Kevionte/Go-Sovereign/miner"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/txpool/blobpool"
+	"github.com/Kevionte/go-sovereign/core/txpool/legacypool"
+	"github.com/Kevionte/go-sovereign/eth/downloader"
+	"github.com/Kevionte/go-sovereign/eth/gasprice"
+	"github.com/Kevionte/go-sovereign/miner"
 )
 
 // MarshalTOML marshals as TOML.

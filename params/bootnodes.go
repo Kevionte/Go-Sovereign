@@ -16,7 +16,7 @@
 
 package params
 
-import "github.com/Kevionte/Go-Sovereign/common"
+import "github.com/Kevionte/go-sovereign/common"
 
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
 // the main Ethereum network.

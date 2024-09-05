@@ -17,7 +17,7 @@
 package rawdb
 
 import (
-	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/ethdb"
 )
 
 // table is a wrapper around a database that prefixes each key access with a pre-

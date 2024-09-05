@@ -39,7 +39,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/crypto"
 )
 
 func TestKDF(t *testing.T) {

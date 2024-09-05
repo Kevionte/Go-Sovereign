@@ -19,7 +19,7 @@ package console
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/internal/jsre"
+	"github.com/Kevionte/go-sovereign/internal/jsre"
 	"github.com/dop251/goja"
 )
 

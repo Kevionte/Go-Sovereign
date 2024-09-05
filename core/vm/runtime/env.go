@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

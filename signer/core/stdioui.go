@@ -19,9 +19,9 @@ package core
 import (
 	"context"
 
-	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/internal/ethapi"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 type StdIOUI struct {

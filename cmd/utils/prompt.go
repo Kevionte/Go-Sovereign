@@ -20,7 +20,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/console/prompt"
+	"github.com/Kevionte/go-sovereign/console/prompt"
 )
 
 // GetPassPhrase displays the given text(prompt) to the user and requests some textual

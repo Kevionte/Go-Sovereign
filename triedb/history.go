@@ -19,8 +19,8 @@ package triedb
 import (
 	"errors"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/triedb/pathdb"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/triedb/pathdb"
 )
 
 // AccountHistory inspects the account history within the specified range.

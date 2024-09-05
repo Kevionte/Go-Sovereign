@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

@@ -20,7 +20,7 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/common/mclock"
 )
 
 // IPTracker predicts the external endpoint, i.e. IP address and port, of the local host

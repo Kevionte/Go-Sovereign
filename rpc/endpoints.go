@@ -20,7 +20,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // StartIPCEndpoint starts an IPC endpoint.

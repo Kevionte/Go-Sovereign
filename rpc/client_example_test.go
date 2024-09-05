@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

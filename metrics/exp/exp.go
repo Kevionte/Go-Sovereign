@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/metrics"
-	"github.com/Kevionte/Go-Sovereign/metrics/prometheus"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics/prometheus"
 )
 
 type exp struct {

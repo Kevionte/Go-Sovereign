@@ -24,7 +24,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 type storedCredential struct {

@@ -19,7 +19,7 @@ package snap
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 	"github.com/holiman/uint256"
 )
 

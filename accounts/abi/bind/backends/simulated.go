@@ -19,13 +19,13 @@ package backends
 import (
 	"context"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/ethclient/simulated"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/ethclient/simulated"
 )
 
 // SimulatedBackend is a simulated blockchain.
-// Deprecated: use package github.com/Kevionte/Go-Sovereign/ethclient/simulated instead.
+// Deprecated: use package github.com/Kevionte/go-sovereign/ethclient/simulated instead.
 type SimulatedBackend struct {
 	*simulated.Backend
 	simulated.Client
@@ -42,7 +42,7 @@ func (b *SimulatedBackend) Fork(ctx context.Context, parentHash common.Hash) err
 // A simulated backend always uses chainID 1337.
 //
 // Deprecated: please use simulated.Backend from package
-// github.com/Kevionte/Go-Sovereign/ethclient/simulated instead.
+// github.com/Kevionte/go-sovereign/ethclient/simulated instead.
 func NewSimulatedBackend(alloc types.GenesisAlloc, gasLimit uint64) *SimulatedBackend {
 	b := simulated.NewBackend(alloc, simulated.WithBlockGasLimit(gasLimit))
 	return &SimulatedBackend{

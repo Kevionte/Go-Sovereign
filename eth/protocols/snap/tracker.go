@@ -19,7 +19,7 @@ package snap
 import (
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/p2p/tracker"
+	"github.com/Kevionte/go-sovereign/p2p/tracker"
 )
 
 // requestTracker is a singleton tracker for request times.

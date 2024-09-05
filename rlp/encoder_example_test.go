@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 type MyCoolType struct {

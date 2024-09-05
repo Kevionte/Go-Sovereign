@@ -16,7 +16,7 @@
 
 package downloader
 
-import "github.com/Kevionte/Go-Sovereign/core/types"
+import "github.com/Kevionte/go-sovereign/core/types"
 
 type DoneEvent struct {
 	Latest *types.Header

@@ -19,7 +19,7 @@ package abi
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 type packUnpackTest struct {

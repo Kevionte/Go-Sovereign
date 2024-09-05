@@ -26,7 +26,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 const (

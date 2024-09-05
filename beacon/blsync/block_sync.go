@@ -17,14 +17,14 @@
 package blsync
 
 import (
-	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
-	"github.com/Kevionte/Go-Sovereign/beacon/light/sync"
-	"github.com/Kevionte/Go-Sovereign/beacon/params"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/lru"
-	"github.com/Kevionte/Go-Sovereign/event"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/beacon/light/request"
+	"github.com/Kevionte/go-sovereign/beacon/light/sync"
+	"github.com/Kevionte/go-sovereign/beacon/params"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/lru"
+	"github.com/Kevionte/go-sovereign/event"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // beaconBlockSync implements request.Module; it fetches the beacon blocks belonging

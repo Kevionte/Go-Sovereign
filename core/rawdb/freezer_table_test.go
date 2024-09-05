@@ -27,7 +27,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/Kevionte/Go-Sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/metrics"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/stretchr/testify/require"
 )

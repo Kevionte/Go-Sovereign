@@ -24,14 +24,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/catalyst"
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/internal/utesting"
-	"github.com/Kevionte/Go-Sovereign/node"
-	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/eth"
+	"github.com/Kevionte/go-sovereign/eth/catalyst"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/internal/utesting"
+	"github.com/Kevionte/go-sovereign/node"
+	"github.com/Kevionte/go-sovereign/p2p"
 )
 
 func makeJWTSecret(t *testing.T) (string, [32]byte, error) {

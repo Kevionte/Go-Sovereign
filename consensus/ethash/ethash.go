@@ -20,9 +20,9 @@ package ethash
 import (
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/consensus"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/consensus"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // Ethash is a consensus engine based on proof-of-work implementing the ethash

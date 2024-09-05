@@ -16,7 +16,7 @@
 
 package database
 
-import "github.com/Kevionte/Go-Sovereign/common"
+import "github.com/Kevionte/go-sovereign/common"
 
 // Reader wraps the Node method of a backing trie reader.
 type Reader interface {

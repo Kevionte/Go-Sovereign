@@ -21,8 +21,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // StartHTTPEndpoint starts the HTTP RPC endpoint.

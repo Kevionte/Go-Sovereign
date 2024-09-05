@@ -22,14 +22,14 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/evm/internal/t8ntool"
-	"github.com/Kevionte/Go-Sovereign/internal/debug"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/cmd/evm/internal/t8ntool"
+	"github.com/Kevionte/go-sovereign/internal/debug"
+	"github.com/Kevionte/go-sovereign/internal/flags"
 	"github.com/urfave/cli/v2"
 
 	// Force-load the tracer engines to trigger registration
-	_ "github.com/Kevionte/Go-Sovereign/eth/tracers/js"
-	_ "github.com/Kevionte/Go-Sovereign/eth/tracers/native"
+	_ "github.com/Kevionte/go-sovereign/eth/tracers/js"
+	_ "github.com/Kevionte/go-sovereign/eth/tracers/native"
 )
 
 var (

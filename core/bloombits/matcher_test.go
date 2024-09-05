@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 const testSectionSize = 4096
@@ -86,7 +86,7 @@ func TestMatcherRandom(t *testing.T) {
 
 // Tests that the matcher can properly find matches if the starting block is
 // shifted from a multiple of 8. This is needed to cover an optimisation with
-// bitset matching https://github.com/Kevionte/Go-Sovereign/issues/15309.
+// bitset matching https://github.com/Kevionte/go-sovereign/issues/15309.
 func TestMatcherShifted(t *testing.T) {
 	t.Parallel()
 	// Block 0 always matches in the tests, skip ahead of first 8 blocks with the

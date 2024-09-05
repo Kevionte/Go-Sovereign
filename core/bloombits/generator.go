@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 var (

@@ -19,7 +19,7 @@ package ethash
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/types"
 	"github.com/holiman/uint256"
 )
 

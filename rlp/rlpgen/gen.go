@@ -23,7 +23,7 @@ import (
 	"go/types"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/rlp/internal/rlpstruct"
+	"github.com/Kevionte/go-sovereign/rlp/internal/rlpstruct"
 )
 
 // buildContext keeps the data needed for make*Op.

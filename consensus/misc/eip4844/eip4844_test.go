@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 func TestCalcExcessBlobGas(t *testing.T) {

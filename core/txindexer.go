@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // TxIndexProgress is the struct describing the progress for transaction indexing.

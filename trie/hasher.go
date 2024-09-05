@@ -19,8 +19,8 @@ package trie
 import (
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // hasher is a type used for the trie Hash operation. A hasher has some

@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/console/prompt"
-	"github.com/Kevionte/Go-Sovereign/p2p/dnsdisc"
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/console/prompt"
+	"github.com/Kevionte/go-sovereign/p2p/dnsdisc"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 	"github.com/urfave/cli/v2"
 )
 

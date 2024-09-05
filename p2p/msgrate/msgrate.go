@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // measurementImpact is the impact a single measurement has on a peer's final

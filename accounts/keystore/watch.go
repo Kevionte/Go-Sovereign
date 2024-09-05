@@ -23,7 +23,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/fsnotify/fsnotify"
 )
 

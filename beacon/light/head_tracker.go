@@ -21,8 +21,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // HeadTracker keeps track of the latest validated head and the "prefetch" head

@@ -19,8 +19,8 @@ package sync
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/beacon/light/request"
+	"github.com/Kevionte/go-sovereign/beacon/types"
 )
 
 func TestCheckpointInit(t *testing.T) {

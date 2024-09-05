@@ -21,7 +21,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // Node is a wrapper which contains the encoded blob of the trie node and its

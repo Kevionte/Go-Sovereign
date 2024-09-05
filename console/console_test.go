@@ -25,14 +25,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/console/prompt"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/ethconfig"
-	"github.com/Kevionte/Go-Sovereign/internal/jsre"
-	"github.com/Kevionte/Go-Sovereign/miner"
-	"github.com/Kevionte/Go-Sovereign/node"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/console/prompt"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/eth"
+	"github.com/Kevionte/go-sovereign/eth/ethconfig"
+	"github.com/Kevionte/go-sovereign/internal/jsre"
+	"github.com/Kevionte/go-sovereign/miner"
+	"github.com/Kevionte/go-sovereign/node"
 )
 
 const (

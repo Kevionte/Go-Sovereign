@@ -23,11 +23,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
-	"github.com/Kevionte/Go-Sovereign/internal/jsre/deps"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/signer/core"
-	"github.com/Kevionte/Go-Sovereign/signer/storage"
+	"github.com/Kevionte/go-sovereign/internal/ethapi"
+	"github.com/Kevionte/go-sovereign/internal/jsre/deps"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/signer/core"
+	"github.com/Kevionte/go-sovereign/signer/storage"
 	"github.com/dop251/goja"
 )
 

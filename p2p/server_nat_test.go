@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
-	"github.com/Kevionte/Go-Sovereign/internal/testlog"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/internal/testlog"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 func TestServerPortMapping(t *testing.T) {

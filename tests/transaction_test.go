@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 func TestTransaction(t *testing.T) {

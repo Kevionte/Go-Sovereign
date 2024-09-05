@@ -28,10 +28,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/crypto/ecies"
-	"github.com/Kevionte/Go-Sovereign/p2p/simulations/pipes"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/crypto/ecies"
+	"github.com/Kevionte/go-sovereign/p2p/simulations/pipes"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/stretchr/testify/assert"
 )

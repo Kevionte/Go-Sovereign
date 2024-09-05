@@ -24,8 +24,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

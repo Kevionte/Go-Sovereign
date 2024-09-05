@@ -19,7 +19,7 @@ package rlp
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
 )
 
 // TestIterator tests some basic things about the ListIterator. A more

@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // TestExport does basic sanity checks on the export/import functionality

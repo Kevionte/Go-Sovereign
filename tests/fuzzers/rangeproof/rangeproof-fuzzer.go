@@ -23,11 +23,11 @@ import (
 	"io"
 	"slices"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/ethdb/memorydb"
-	"github.com/Kevionte/Go-Sovereign/trie"
-	"github.com/Kevionte/Go-Sovereign/triedb"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/ethdb/memorydb"
+	"github.com/Kevionte/go-sovereign/trie"
+	"github.com/Kevionte/go-sovereign/triedb"
 )
 
 type kv struct {

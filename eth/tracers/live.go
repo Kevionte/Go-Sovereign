@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/Kevionte/Go-Sovereign/core/tracing"
+	"github.com/Kevionte/go-sovereign/core/tracing"
 )
 
 type ctorFunc func(config json.RawMessage) (*tracing.Hooks, error)

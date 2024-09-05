@@ -19,7 +19,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 type (

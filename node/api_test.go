@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

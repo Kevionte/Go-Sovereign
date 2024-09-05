@@ -27,17 +27,17 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/consensus/misc/eip1559"
-	"github.com/Kevionte/Go-Sovereign/core/state"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/eth/filters"
-	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
-	"github.com/Kevionte/Go-Sovereign/rlp"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/consensus/misc/eip1559"
+	"github.com/Kevionte/go-sovereign/core/state"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/eth/filters"
+	"github.com/Kevionte/go-sovereign/internal/ethapi"
+	"github.com/Kevionte/go-sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 var (

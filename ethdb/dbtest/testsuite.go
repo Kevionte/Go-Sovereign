@@ -23,7 +23,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/ethdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

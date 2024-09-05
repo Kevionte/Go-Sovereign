@@ -24,9 +24,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // AdminAPI is the collection of Ethereum full node related APIs for node

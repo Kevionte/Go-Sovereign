@@ -1,4 +1,4 @@
-module github.com/Kevionte/Go-Sovereign
+module github.com/Kevionte/go-sovereign
 
 go 1.21
 

@@ -17,7 +17,7 @@
 package snap
 
 import (
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `snap` protocol on the discovery.

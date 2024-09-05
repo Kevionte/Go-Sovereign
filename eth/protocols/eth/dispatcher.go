@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/p2p"
 )
 
 var (

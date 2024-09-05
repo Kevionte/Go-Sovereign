@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/metrics"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/metrics"
 )
 
 // Handler returns an HTTP handler which dump metrics in Prometheus format.

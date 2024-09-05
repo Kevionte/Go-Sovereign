@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/core/asm"
+	"github.com/Kevionte/go-sovereign/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

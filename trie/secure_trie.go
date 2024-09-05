@@ -17,11 +17,11 @@
 package trie
 
 import (
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/rlp"
-	"github.com/Kevionte/Go-Sovereign/trie/trienode"
-	"github.com/Kevionte/Go-Sovereign/triedb/database"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/trie/trienode"
+	"github.com/Kevionte/go-sovereign/triedb/database"
 )
 
 // preimageStore wraps the methods of a backing store for reading and writing

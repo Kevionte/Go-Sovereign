@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/rpc"
 	"github.com/golang-jwt/jwt/v4"
 )
 

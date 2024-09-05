@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/trie/trienode"
-	"github.com/Kevionte/Go-Sovereign/trie/triestate"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/trie/trienode"
+	"github.com/Kevionte/go-sovereign/trie/triestate"
 )
 
 // layerTree is a group of state layers identified by the state root.

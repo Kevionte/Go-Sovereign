@@ -24,11 +24,11 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/rawdb"
-	"github.com/Kevionte/Go-Sovereign/core/tracing"
-	"github.com/Kevionte/Go-Sovereign/eth/tracers/logger"
-	"github.com/Kevionte/Go-Sovereign/tests"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/rawdb"
+	"github.com/Kevionte/go-sovereign/core/tracing"
+	"github.com/Kevionte/go-sovereign/eth/tracers/logger"
+	"github.com/Kevionte/go-sovereign/tests"
 	"github.com/urfave/cli/v2"
 )
 

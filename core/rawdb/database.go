@@ -25,12 +25,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
-	"github.com/Kevionte/Go-Sovereign/ethdb/leveldb"
-	"github.com/Kevionte/Go-Sovereign/ethdb/memorydb"
-	"github.com/Kevionte/Go-Sovereign/ethdb/pebble"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/ethdb/leveldb"
+	"github.com/Kevionte/go-sovereign/ethdb/memorydb"
+	"github.com/Kevionte/go-sovereign/ethdb/pebble"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/olekukonko/tablewriter"
 )
 

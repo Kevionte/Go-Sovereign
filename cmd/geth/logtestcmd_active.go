@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/log"
 	"github.com/holiman/uint256"
 	"github.com/urfave/cli/v2"
 )

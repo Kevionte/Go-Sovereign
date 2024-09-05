@@ -25,12 +25,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/scwallet"
-	"github.com/Kevionte/Go-Sovereign/accounts/usbwallet"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/console/prompt"
-	"github.com/Kevionte/Go-Sovereign/internal/jsre"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/accounts/scwallet"
+	"github.com/Kevionte/go-sovereign/accounts/usbwallet"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/console/prompt"
+	"github.com/Kevionte/go-sovereign/internal/jsre"
+	"github.com/Kevionte/go-sovereign/rpc"
 	"github.com/dop251/goja"
 )
 

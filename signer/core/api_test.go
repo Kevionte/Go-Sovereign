@@ -26,17 +26,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/internal/ethapi"
-	"github.com/Kevionte/Go-Sovereign/rlp"
-	"github.com/Kevionte/Go-Sovereign/signer/core"
-	"github.com/Kevionte/Go-Sovereign/signer/core/apitypes"
-	"github.com/Kevionte/Go-Sovereign/signer/fourbyte"
-	"github.com/Kevionte/Go-Sovereign/signer/storage"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/internal/ethapi"
+	"github.com/Kevionte/go-sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/signer/core"
+	"github.com/Kevionte/go-sovereign/signer/core/apitypes"
+	"github.com/Kevionte/go-sovereign/signer/fourbyte"
+	"github.com/Kevionte/go-sovereign/signer/storage"
 )
 
 // Used for testing

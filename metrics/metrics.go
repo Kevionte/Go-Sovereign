@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // Enabled is checked by the constructor functions for all of the

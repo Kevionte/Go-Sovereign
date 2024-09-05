@@ -5,15 +5,15 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/consensus/misc/eip4844"
-	"github.com/Kevionte/Go-Sovereign/core"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/consensus/misc/eip4844"
+	"github.com/Kevionte/go-sovereign/core"
+	"github.com/Kevionte/go-sovereign/core/vm"
 
 	// Force-load native and js packages, to trigger registration
-	_ "github.com/Kevionte/Go-Sovereign/eth/tracers/js"
-	_ "github.com/Kevionte/Go-Sovereign/eth/tracers/native"
+	_ "github.com/Kevionte/go-sovereign/eth/tracers/js"
+	_ "github.com/Kevionte/go-sovereign/eth/tracers/native"
 )
 
 // camel converts a snake cased input string into a camel cased output.

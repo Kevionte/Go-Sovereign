@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/Kevionte/Go-Sovereign
+go_import_path: github.com/Kevionte/go-sovereign
 sudo: false
 jobs:
   allow_failures:

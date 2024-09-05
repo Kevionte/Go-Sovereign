@@ -28,7 +28,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/Kevionte/Go-Sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/common/math"
 	"github.com/urfave/cli/v2"
 )
 

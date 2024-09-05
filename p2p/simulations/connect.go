@@ -20,7 +20,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/p2p/enode"
+	"github.com/Kevionte/go-sovereign/p2p/enode"
 )
 
 var (

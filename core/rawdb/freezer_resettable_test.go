@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/ethdb"
 )
 
 func TestResetFreezer(t *testing.T) {

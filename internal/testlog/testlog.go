@@ -25,7 +25,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 const (

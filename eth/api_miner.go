@@ -19,7 +19,7 @@ package eth
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common/hexutil"
+	"github.com/Kevionte/go-sovereign/common/hexutil"
 )
 
 // MinerAPI provides an API to control the miner.

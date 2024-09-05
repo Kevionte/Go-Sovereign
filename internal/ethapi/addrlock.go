@@ -19,7 +19,7 @@ package ethapi
 import (
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 type AddrLocker struct {

@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

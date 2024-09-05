@@ -17,8 +17,8 @@
 package engine
 
 import (
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // EngineAPIError is a standardized error message between consensus and execution

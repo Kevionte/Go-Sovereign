@@ -19,7 +19,7 @@ package vm
 import (
 	"errors"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 // LookupInstructionSet returns the instruction set for the fork configured by

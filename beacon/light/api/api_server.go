@@ -19,11 +19,11 @@ package api
 import (
 	"reflect"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/light/request"
-	"github.com/Kevionte/Go-Sovereign/beacon/light/sync"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/beacon/light/request"
+	"github.com/Kevionte/go-sovereign/beacon/light/sync"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // ApiServer is a wrapper around BeaconLightApi that implements request.requestServer.

@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/event"
+	"github.com/Kevionte/go-sovereign/event"
 )
 
 func ExampleNewSubscription() {

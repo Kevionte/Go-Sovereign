@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/cmd/devp2p/internal/v5test"
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/internal/flags"
-	"github.com/Kevionte/Go-Sovereign/p2p/discover"
+	"github.com/Kevionte/go-sovereign/cmd/devp2p/internal/v5test"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/internal/flags"
+	"github.com/Kevionte/go-sovereign/p2p/discover"
 	"github.com/urfave/cli/v2"
 )
 

@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/trie/trienode"
-	"github.com/Kevionte/Go-Sovereign/trie/triestate"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/trie/trienode"
+	"github.com/Kevionte/go-sovereign/trie/triestate"
 )
 
 // diffLayer represents a collection of modifications made to the in-memory tries

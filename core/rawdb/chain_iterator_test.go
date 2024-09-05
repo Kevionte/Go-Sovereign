@@ -23,8 +23,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 func TestChainIterator(t *testing.T) {

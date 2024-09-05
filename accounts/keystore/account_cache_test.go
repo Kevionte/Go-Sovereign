@@ -27,8 +27,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/accounts"
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/accounts"
+	"github.com/Kevionte/go-sovereign/common"
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
 )

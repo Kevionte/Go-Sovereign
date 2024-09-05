@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/internal/cmdtest"
-	"github.com/Kevionte/Go-Sovereign/internal/reexec"
+	"github.com/Kevionte/go-sovereign/internal/cmdtest"
+	"github.com/Kevionte/go-sovereign/internal/reexec"
 )
 
 type testEthkey struct {

@@ -21,7 +21,7 @@ import (
 	"container/heap"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/common/mclock"
 )
 
 // LazyQueue is a priority queue data structure where priorities can change over

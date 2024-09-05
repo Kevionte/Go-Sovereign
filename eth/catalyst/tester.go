@@ -20,11 +20,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/eth"
-	"github.com/Kevionte/Go-Sovereign/eth/downloader"
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/node"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/eth"
+	"github.com/Kevionte/go-sovereign/eth/downloader"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/node"
 )
 
 // FullSyncTester is an auxiliary service that allows Geth to perform full sync

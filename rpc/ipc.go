@@ -20,8 +20,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/p2p/netutil"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/p2p/netutil"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

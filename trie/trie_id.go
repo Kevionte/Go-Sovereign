@@ -16,7 +16,7 @@
 
 package trie
 
-import "github.com/Kevionte/Go-Sovereign/common"
+import "github.com/Kevionte/go-sovereign/common"
 
 // ID is the identifier for uniquely identifying a trie.
 type ID struct {

@@ -19,8 +19,8 @@ package beacon
 import (
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/consensus"
-	"github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/consensus"
+	"github.com/Kevionte/go-sovereign/core/types"
 )
 
 // NewFaker creates a fake consensus engine for testing.

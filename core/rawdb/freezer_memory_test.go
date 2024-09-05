@@ -19,8 +19,8 @@ package rawdb
 import (
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/core/rawdb/ancienttest"
-	"github.com/Kevionte/Go-Sovereign/ethdb"
+	"github.com/Kevionte/go-sovereign/core/rawdb/ancienttest"
+	"github.com/Kevionte/go-sovereign/ethdb"
 )
 
 func TestMemoryFreezer(t *testing.T) {

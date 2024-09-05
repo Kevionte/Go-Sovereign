@@ -21,8 +21,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/accounts/keystore"
-	"github.com/Kevionte/Go-Sovereign/cmd/utils"
+	"github.com/Kevionte/go-sovereign/accounts/keystore"
+	"github.com/Kevionte/go-sovereign/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

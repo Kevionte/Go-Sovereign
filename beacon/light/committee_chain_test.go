@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/params"
-	"github.com/Kevionte/Go-Sovereign/beacon/types"
-	"github.com/Kevionte/Go-Sovereign/common/mclock"
-	"github.com/Kevionte/Go-Sovereign/ethdb/memorydb"
+	"github.com/Kevionte/go-sovereign/beacon/params"
+	"github.com/Kevionte/go-sovereign/beacon/types"
+	"github.com/Kevionte/go-sovereign/common/mclock"
+	"github.com/Kevionte/go-sovereign/ethdb/memorydb"
 )
 
 var (

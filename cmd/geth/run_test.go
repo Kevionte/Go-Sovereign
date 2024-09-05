@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/internal/cmdtest"
-	"github.com/Kevionte/Go-Sovereign/internal/reexec"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/internal/cmdtest"
+	"github.com/Kevionte/go-sovereign/internal/reexec"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 type testgeth struct {

@@ -20,8 +20,8 @@
 package node
 
 import (
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/rpc"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/rpc"
 )
 
 // NoopLifecycle is a trivial implementation of the Service interface.

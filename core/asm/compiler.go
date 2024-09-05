@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/core/vm"
 )
 
 // Compiler contains information about the parsed source

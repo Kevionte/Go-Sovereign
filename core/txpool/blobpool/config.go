@@ -17,7 +17,7 @@
 package blobpool
 
 import (
-	"github.com/Kevionte/Go-Sovereign/log"
+	"github.com/Kevionte/go-sovereign/log"
 )
 
 // Config are the configuration parameters of the blob transaction pool.

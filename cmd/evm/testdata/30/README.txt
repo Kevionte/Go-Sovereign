@@ -1,4 +1,4 @@
-This example comes from https://github.com/Kevionte/Go-Sovereign/issues/27730.
+This example comes from https://github.com/Kevionte/go-sovereign/issues/27730.
 The input transactions contain three transactions, number `0` and `2` are taken from
 `testdata/13`, whereas number `1` is taken from #27730.
 

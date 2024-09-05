@@ -21,13 +21,13 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	cmath "github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/core/tracing"
-	"github.com/Kevionte/Go-Sovereign/core/types"
-	"github.com/Kevionte/Go-Sovereign/core/vm"
-	"github.com/Kevionte/Go-Sovereign/crypto/kzg4844"
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/common"
+	cmath "github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/core/tracing"
+	"github.com/Kevionte/go-sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/core/vm"
+	"github.com/Kevionte/go-sovereign/crypto/kzg4844"
+	"github.com/Kevionte/go-sovereign/params"
 	"github.com/holiman/uint256"
 )
 

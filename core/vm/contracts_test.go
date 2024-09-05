@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 // precompiledTest defines the input/output pairs for precompiled contract tests.

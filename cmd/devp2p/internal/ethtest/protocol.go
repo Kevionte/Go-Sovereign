@@ -16,8 +16,8 @@
 package ethtest
 
 import (
-	"github.com/Kevionte/Go-Sovereign/p2p"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/p2p"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 // Unexported devp2p message codes from p2p/peer.go.

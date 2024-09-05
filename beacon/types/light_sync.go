@@ -20,10 +20,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/beacon/merkle"
-	"github.com/Kevionte/Go-Sovereign/beacon/params"
-	"github.com/Kevionte/Go-Sovereign/common"
-	ctypes "github.com/Kevionte/Go-Sovereign/core/types"
+	"github.com/Kevionte/go-sovereign/beacon/merkle"
+	"github.com/Kevionte/go-sovereign/beacon/params"
+	"github.com/Kevionte/go-sovereign/common"
+	ctypes "github.com/Kevionte/go-sovereign/core/types"
 )
 
 // HeadInfo represents an unvalidated new head announcement.

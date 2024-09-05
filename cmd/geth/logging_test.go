@@ -30,7 +30,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/internal/reexec"
+	"github.com/Kevionte/go-sovereign/internal/reexec"
 )
 
 func runSelf(args ...string) ([]byte, error) {

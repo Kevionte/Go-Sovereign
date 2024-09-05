@@ -20,8 +20,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/Kevionte/Go-Sovereign/log"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/log"
+	"github.com/Kevionte/go-sovereign/rlp"
 )
 
 const freezerVersion = 1 // The initial version tag of freezer table metadata

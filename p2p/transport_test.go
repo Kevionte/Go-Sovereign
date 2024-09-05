@@ -22,8 +22,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
-	"github.com/Kevionte/Go-Sovereign/p2p/simulations/pipes"
+	"github.com/Kevionte/go-sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/p2p/simulations/pipes"
 	"github.com/davecgh/go-spew/spew"
 )
 

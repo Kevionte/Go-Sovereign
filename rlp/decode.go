@@ -28,7 +28,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/rlp/internal/rlpstruct"
+	"github.com/Kevionte/go-sovereign/rlp/internal/rlpstruct"
 	"github.com/holiman/uint256"
 )
 

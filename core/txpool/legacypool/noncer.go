@@ -19,8 +19,8 @@ package legacypool
 import (
 	"sync"
 
-	"github.com/Kevionte/Go-Sovereign/common"
-	"github.com/Kevionte/Go-Sovereign/core/state"
+	"github.com/Kevionte/go-sovereign/common"
+	"github.com/Kevionte/go-sovereign/core/state"
 )
 
 // noncer is a tiny virtual state database to manage the executable nonces of

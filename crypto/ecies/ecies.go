@@ -41,7 +41,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/Kevionte/Go-Sovereign/crypto"
+	"github.com/Kevionte/go-sovereign/crypto"
 )
 
 var (

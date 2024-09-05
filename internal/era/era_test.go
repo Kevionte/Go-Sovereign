@@ -23,7 +23,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Kevionte/Go-Sovereign/common"
+	"github.com/Kevionte/go-sovereign/common"
 )
 
 type testchain struct {

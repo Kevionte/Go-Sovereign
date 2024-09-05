@@ -19,7 +19,7 @@ package misc
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/params"
+	"github.com/Kevionte/go-sovereign/params"
 )
 
 // VerifyGaslimit verifies the header gas limit according increase/decrease

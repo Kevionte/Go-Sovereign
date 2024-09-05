@@ -23,7 +23,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Kevionte/Go-Sovereign/rlp/internal/rlpstruct"
+	"github.com/Kevionte/go-sovereign/rlp/internal/rlpstruct"
 )
 
 // typeinfo is an entry in the type cache.

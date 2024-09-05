@@ -19,8 +19,8 @@ package rawdb
 import (
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/rlp"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/rlp"
 	"github.com/golang/snappy"
 )
 

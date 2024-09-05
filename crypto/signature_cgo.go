@@ -24,8 +24,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Kevionte/Go-Sovereign/common/math"
-	"github.com/Kevionte/Go-Sovereign/crypto/secp256k1"
+	"github.com/Kevionte/go-sovereign/common/math"
+	"github.com/Kevionte/go-sovereign/crypto/secp256k1"
 )
 
 // Ecrecover returns the uncompressed public key that created the given signature.
